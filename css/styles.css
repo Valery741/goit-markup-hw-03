@@ -45,7 +45,7 @@ img {
 header {
     border-bottom: 1px solid #E7E9FC;
 }
-. header-container {
+.header-container {
 display: flex;
 align-items: center;
 justify-items: space-between;
