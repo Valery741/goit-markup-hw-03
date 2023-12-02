@@ -278,6 +278,7 @@ width: calc((100%-72px)/4);
 .portfolio-list-item {
     border: #E7E9FC;
     background:#FFF;
+    width: calc((100% - 48px) / 3);
 }
 .portfolio-item-descr {
     color:#434455;
@@ -307,6 +308,7 @@ footer {
 } 
 .logo-footer-span {
     color: #F4F4FD;
+    display: inline-block;
 }
 .footer-text-descr {
     color:#F4F4FD;
