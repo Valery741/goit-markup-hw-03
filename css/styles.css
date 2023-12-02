@@ -265,6 +265,7 @@ width: calc((100%-72px)/4);
     display: flex;
     flex-wrap: wrap;
     gap: 48px 24px;
+    
 }
 .portfolio-name {
     color:#2E2F42;
