@@ -305,10 +305,10 @@ footer {
     justify-content: center;
     background-color: #2e2f42;
     margin-bottom: 16px;
+    display: inline-block;
 } 
 .logo-footer-span {
     color: #F4F4FD;
-    display: inline-block;
 }
 .footer-text-descr {
     color:#F4F4FD;
