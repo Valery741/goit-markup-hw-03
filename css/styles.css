@@ -47,8 +47,11 @@ header {
 }
 .header-container {
 display: flex;
+container: 0;
 align-items: center;
 justify-items: space-between;
+width: 1158px;
+padding: 0 15px
 }
 
 /* < !-- Navigation --> */
