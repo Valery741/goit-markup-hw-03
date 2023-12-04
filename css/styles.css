@@ -37,18 +37,17 @@ img {
     max-width: 100%;
     height: auto;
 }
-.container {
-    width: 1158 px;
-    padding: 0 15px;
-    margin: 0 auto;
-}
+
 header {
     border-bottom: 1px solid #E7E9FC;
 }
+.header-container {
+    display: flex;
+    justify-items: space-between;
+    align-items: center;
+}
 .container {
-container: 0;
-justify-items: space-between;
-align-items: center;
+
 width: 1158px;
 padding: 0 15px;
 margin: 0 auto;
