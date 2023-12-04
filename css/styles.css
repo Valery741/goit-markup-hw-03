@@ -43,8 +43,8 @@ header {
 }
 .header-container {
     display: flex;
-    justify-items: space-between;
     align-items: center;
+    justify-items: space-between;
 }
 .container {
 width: 1158px;
