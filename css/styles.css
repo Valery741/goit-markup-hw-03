@@ -41,15 +41,16 @@ img {
 header {
     border-bottom: 1px solid #E7E9FC;
 }
-.header-container {
-    display: flex;
-    align-items: center;
-    justify-items: space-between;
-}
+
 .container {
 width: 1158px;
 padding: 0 15px;
 margin: 0 auto;
+}
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-items: space-between;
 }
 
 /* < !-- Navigation --> */
