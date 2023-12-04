@@ -286,11 +286,16 @@ width: calc((100% - 72px) / 4);
     letter-spacing: 0.4px;
     margin-bottom: 8px;
 }
-.portfolio-list-item {
+.portfolio-list-item1 {
     border: #E7E9FC;
     background:#FFF;
     width: calc((100% - 48px) / 3);
 }
+.portfolio-list-item1 {
+    border: #E7E9FC;
+    background: #FFF;
+}
+
 .portfolio-item-descr {
     color:#434455;
     font-size: 16px;
